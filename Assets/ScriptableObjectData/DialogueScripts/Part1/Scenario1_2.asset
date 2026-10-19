@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: Scenario1_2
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: LW
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: LW_SummonPortal_2
+    IsWaitUntilAnimationEnd: 1
+  - CharacterName: LW
+    Line: "\u4F60\u77E5\u9053\u55CE\uFF1F\u9019\u88CF\u4EE5\u524D\u5C31\u662F\u6D77\u908A\u4E86"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+  - CharacterName: LW
+    Line: "\u5F9E\u5916\u5730\u4F86\u7684\u5546\u54C1\u90FD\u901A\u904E\u5C0F\u578B\u7684\u8239\uFF0C\u9032\u5165\u9644\u8FD1\u7684\u6E2F\u9053"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+  - CharacterName: LW
+    Line: "\u5728\u6211\u5011\u5DE6\u908A\u7684\u5C31\u662F\u5176\u4E2D\u4E4B\u4E00\uFF0C\u5357\u6CB3\u6E2F"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+  - CharacterName: ShopKeeper
+    Line: 
+    WaitDurationAfterLine: 1
+    AnimationClipName: ShopKeeper_MoveIntoPortal
+    IsWaitUntilAnimationEnd: 0
+  - CharacterName: LW
+    Line: "\u6B63\u597D\u6211\u5011\u4E5F\u8981\u9032\u53BB\uFF0C\u770B\u770B\u525B\u525B\u90A3\u4EBA\u767C\u751F\u4E86\u4EC0\u9EBC\u4E8B\u5427"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0

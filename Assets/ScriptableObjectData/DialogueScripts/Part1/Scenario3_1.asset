@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: Scenario3_1
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: ShopKeeper
+    Line: "\u7D42\u65BC\u52D5\u4E86\uFF01\u525B\u525B\u9032\u6E2F\u7684\u90A3\u8258\u597D\u50CF\u5C31\u662F\u6211\u8981\u7684\u8CA8\uFF01"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: ShopKeeper
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: ShopKeeper_LeavePortal
+    IsWaitUntilAnimationEnd: 1
+    SubAnimationClipName: 
+  - CharacterName: LW_Portal
+    Line: "\u6211\u5011\u4E5F\u8DDF\u904E\u53BB\u5427\uFF0C\u9806\u4FBF\u5E36\u4F60\u770B\u5225\u7684\u5427"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

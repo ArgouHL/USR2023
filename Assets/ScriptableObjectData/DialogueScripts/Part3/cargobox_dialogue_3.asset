@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: cargobox_dialogue_3
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: mob_3
+    Line: "\u8AB0\u628A\u6771\u897F\u653E\u5728\u8DEF\u4E2D\u592E\uFF0C\u6709\u5920\u64CB\u8DEF\u7684"
+    WaitDurationAfterLine: 2
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: assistant
+    Line: "\u62B1\u6B49\uFF0C\u8239\u5BB6\u6C92\u627E\u5730\u65B9\u5148\u9084\u5728\u90A3\u908A\uFF0C\u61C9\u8A72\u662F\u6211\u7684"
+    WaitDurationAfterLine: 2
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: WaveHand
+  - CharacterName: assistant
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: Searching

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: part2_5_ending_2
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: assistant
+    Line: 
+    WaitDurationAfterLine: 2
+    AnimationClipName: part2_walkInTower
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: Walk
+  - CharacterName: mascot_opening
+    Line: "\u5440\uFF0C\u4ED6\u5411\u57CE\u5167\u8D70\u53BB\u4E86\uFF0C\u90A3\u6211\u5011\u4E5F\u8FFD\u904E\u53BB\u5427"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

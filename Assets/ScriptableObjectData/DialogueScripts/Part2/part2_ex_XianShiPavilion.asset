@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: part2_ex_XianShiPavilion
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: XianShiPavilion
+    Line: "\u5CF4\u77F3\u4EAD\u6700\u521D\u70BA\u4E7E\u9686\u5E74\u9593\u8A2D\u7F6E\u65BC\u63A5\u5B98\u4EAD\u77F3\u574A\u65C1\u7684\u77F3\u4EAD"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: XianShiPavilion
+    Line: "\u5728\u65E5\u6CBB\u6642\u671F\u56E0\u5730\u9707\u5012\u4E0B\uFF0C\u4E26\u5728\u6C11\u570B\u516B\u3007\u5E74\u4EE3\u91CD\u4FEE\u98A8\u795E\u5EDF\u8207\u63A5\u5B98\u4EAD\u904E\u7A0B\u4E2D\u91CD\u65B0\u51FA\u571F"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: XianShiPavilion
+    Line: "\u5728\u7576\u6642\u5B78\u8005\u5728\u6B77\u53F2\u8003\u8B49\u7684\u89E3\u8B80\u4E0B\uFF0C\u88AB\u7576\u4F5C\u6210\u98A8\u795E\u5EDF\u7684\u9418\u6A13\u800C\u91CD\u5EFA"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: XianShiPavilion
+    Line: "\u5F8C\u4F86\u57282016\u5E74\u7684\u9AD8\u96C4\u7F8E\u6FC3\u5730\u9707\u6BC0\u640D\uFF0C\u5728\u8003\u53E4\u8003\u64DA\u5F8C\uFF0C\u5F97\u77E5\u5176\u539F\u5148\u7684\u6B77\u53F2\u9762\u8C8C\u5F8C\u91CD\u5EFA"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: XianShiPavilion
+    Line: "\u7891\u4EAD\u4E0A\u523B\u6709\u300C\u5CF4\u77F3\u300D\u4E8C\u5B57\uFF0C\u8A34\u8AAA\u4E00\u5247\u767E\u59D3\u611F\u5FF5\u7236\u6BCD\u5B98\u7684\u6B77\u53F2\u6545\u4E8B\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

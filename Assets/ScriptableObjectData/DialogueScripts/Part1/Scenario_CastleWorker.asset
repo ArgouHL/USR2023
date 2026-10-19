@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: Scenario_CastleWorker
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u90A3\u4E9B\u5728\u5821\u58D8\u4E0A\u8D70\u52D5\u5DE5\u4F5C\u7684\u90FD\u662F\u6B63\u5728\u4FEE\u88DC\u57CE\u7246\u7684\u5DE5\u4EBA\u54E6\uFF0C"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u5821\u58D8\u9760\u8FD1\u6D77\u908A\uFF0C\u9E7D\u5206\u91CD\u3001\u6D77\u98A8\u53C8\u5927\uFF0C\u9E7D\u5206\u8DDF\u6D77\u98A8\u96E3\u514D\u6703\u8B93\u7246\u9762\u525D\u843D\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u4F46\u4FEE\u57CE\u7684\u898F\u6A21\u5F88\u5927\uFF0C\u90FD\u8981\u4E0A\u594F\u671D\u5EF7\u7372\u51C6\u624D\u62FF\u5F97\u5230\u9322\u52D5\u5DE5\uFF0C"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u6211\u5011\u525B\u597D\u9047\u4E0A\u4ED6\u5011\u4FEE\u57CE\u7684\u6642\u5019\u5462\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

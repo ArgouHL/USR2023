@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: Scenario_Telescope_Castle
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u9019\u4E00\u5EA7\u7D05\u78DA\u8981\u585E\u662F\u71B1\u862D\u906E\u57CE\uFF0C\u662F\u53F0\u7063\u7B2C\u4E00\u5EA7\u5DE8\u5927\u7684\u897F\u5F0F\u8981\u585E\u5821\u58D8\uFF0C\u73FE\u5728\u5927\u5BB6\u90FD\u53EB\u4ED6\u505A\u5B89\u5E73\u53E4\u5821"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u662F400 \u591A\u5E74\u524D\u8377\u862D\u4EBA\u4F86\u7684\u6642\u5019\uFF0C\u4EE5\u7528\u7D05\u78DA\u3001\u7CEF\u7C73\u6C41\u3001\u7CD6\u6C34\u9084\u6709\u86B5\u7070\u84CB\u51FA\u4F86\u7684"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u5728\u6E05\u9818\u6642\uFF0C\u5B98\u5E9C\u628A\u5B83\u6539\u6210\u5B58\u653E\u5927\u7832\u8DDF\u706B\u85E5\u7684\u5730\u65B9\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

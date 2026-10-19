@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: part3_opening
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: mascot_opening
+    Line: "\u6211\u5011\u73FE\u5728\u9019\u500B\u5730\u65B9\uFF0C\u5C31\u662F\u4E94\u689D\u6E2F\u5176\u4E2D\u4E4B\u4E00\uFF0C\u5357\u6CB3\u6E2F"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: "\u5357\u6CB3\u6E2F\u662F\u4E94\u689D\u6E2F\u9053\u4E2D\u6700\u65E9\u958B\u767C\u7684\uFF0C\u4E3B\u8981\u904B\u9001\u5357\u5317\u8CA8\u548C\u85E5\u6750"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: "\u662F\u4F7F\u4E94\u689D\u6E2F\u6210\u70BA\u638C\u63A7\u5E9C\u57CE\u7D93\u8CBF\u7684\u91CD\u8981\u5340\u57DF\u7684\u8981\u7D20\u4E4B\u4E00"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: "\u7576\u6642\u591C\u665A\u4EA4\u6613\u4ECD\u7136\u7E41\u5FD9\uFF0C\u71C8\u706B\u901A\u660E"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: "\u525B\u525B\u7684\u5E97\u5C0F\u4E8C\u61C9\u8A72\u662F\u8DD1\u5230\u9019\u9644\u8FD1\uFF0C\u6211\u5011\u627E\u4E00\u4E0B\u4ED6\u5427"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: Part3_LW_Forward
+    IsWaitUntilAnimationEnd: 1
+    SubAnimationClipName: Walk
+  - CharacterName: mascot_opening
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: Idle

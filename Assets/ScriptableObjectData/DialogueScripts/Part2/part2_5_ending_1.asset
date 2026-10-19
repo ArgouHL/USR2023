@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: part2_5_ending_1
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: mascot_opening
+    Line: "\u73FE\u5728\u4F60\u77E5\u9053\u6211\u662F\u600E\u6A23\u51FA\u751F\u4E86\u5427\uFF0C\u6211\u53EF\u662F\u5E9C\u57CE\u5F88\u91CD\u8981\u7684\u4E00\u90E8\u4EFD\u5462"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: "\u5C0D\u4E86\uFF0C\u6211\u5011\u4E0D\u662F\u8981\u627E\u90A3\u540D\u6025\u6025\u5FD9\u5FD9\u7684\u5E97\u5C0F\u4E8C\u55CE\uFF1F\u6211\u770B\u770B\u4ED6\u5728\u54EA....\u6709\u4E86\uFF01"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: mascot_opening
+    Line: 
+    WaitDurationAfterLine: 0
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: part2_LW_SeeA

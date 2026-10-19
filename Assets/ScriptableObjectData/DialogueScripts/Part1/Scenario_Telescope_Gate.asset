@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: Scenario_Telescope_Gate
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u96D6\u7136\u73FE\u5728\u770B\u904E\u53BB\u5E73\u5E73\u7121\u5947\uFF0C\u4F46\u5728\u9019\u500B\u6642\u4EE3\uFF0C\u5B83\u53EF\u662F\u552F\u4E00\u7684\u9580\u6236\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u6240\u6709\u9032\u51FA\u53F0\u6C5F\u5167\u6D77\u7684\u5B98\u8239\u3001\u5546\u8239\uFF0C\u90FD\u5F97\u4E56\u4E56\u5F9E\u9019\u7D93\u904E\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u53EF\u662F\u9E7F\u8033\u9580\u6E2F\u5F88\u7A84\uFF0C\u7A84\u5230\u4E00\u6B21\u53EA\u80FD\u8B93\u5169\u8258\u8239\u4E26\u884C\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u800C\u4E14\u9032\u4E86\u5167\u6D77\u4E4B\u5F8C\uFF0C\u6C34\u6DF1\u5C31\u4E0D\u5920\u4E86\uFF0C\u5403\u6C34\u6DF1\u7684\u5927\u8239\u90FD\u8981\u5728\u90A3\u908A\u63DB\u6210\u5C0F\u8239\u9032\u5165\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 
+  - CharacterName: "\u897F\u9580\u5BF6\u5BF6"
+    Line: "\u5C0F\u8239\u9032\u4F86\u5F8C\uFF0C\u9084\u5F97\u7B49\u5F85\u6F32\u6F6E\u624D\u80FD\u9032\u5165\u4E94\u689D\u6E2F\u5462\u3002"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+    IsWaitUntilAnimationEnd: 0
+    SubAnimationClipName: 

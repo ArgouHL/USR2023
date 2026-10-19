@@ -1,0 +1,108 @@
+{
+    "name": "InputActions_MoblieAR",
+    "maps": [
+        {
+            "name": "Moblie Screen Interactions",
+            "id": "2201838c-2b99-441c-803f-f1bec902dc9f",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Button",
+                    "id": "17c7a946-a601-449d-b81e-f494373d165b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "TouchPosition",
+                    "type": "Value",
+                    "id": "d4deddaf-5242-4c95-ba92-223eecd5a4d7",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ff28aab1-7967-44ac-8f83-650530425eb7",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "405c27ff-e892-4e98-8b12-333f1082374c",
+                    "path": "<Touchscreen>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Test PC",
+            "id": "8670be23-9898-494a-a404-7d61d3966065",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Button",
+                    "id": "be228749-8106-4008-821c-d53d4a203566",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "TouchPosition",
+                    "type": "Value",
+                    "id": "887c9653-6453-4893-9602-3cc3fa9e7587",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7f998ee9-9f9a-4376-8c2c-9b6a1c1b466c",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a2cc7e44-f8b4-48fb-8101-bc62d8d63c22",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Moblie",
+            "bindingGroup": "Moblie",
+            "devices": []
+        }
+    ]
+}

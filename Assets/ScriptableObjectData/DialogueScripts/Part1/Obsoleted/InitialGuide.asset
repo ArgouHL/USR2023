@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cc0245581b20f4459c820b62572e7c2, type: 3}
+  m_Name: InitialGuide
+  m_EditorClassIdentifier: 
+  ScriptDataList:
+  - Line: "\u5679\u5577\uFF0C\u807D\u5F97\u5230\u6211\u55CE\uFF1F"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+  - Line: " \u563F\u563F\uFF0C\u6211\u662F\u5927\u897F\u9580\u7684\u5C0F\u795E\u9748\uFF0C\u5927\u897F\u9580\u5BF6\u5BF6\uFF01"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+  - Line: "\u4E0D\u904E\u6700\u8FD1\u9EBB\u7169\u6709\u9EDE\u591A\uFF0C\u795E\u529B\u90FD\u5FEB\u7528\u5149\u4E86\u2026\u2026\r\n"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+  - Line: "\u53EF\u4EE5\u5E6B\u6211\u4E00\u4E0B\u4E0B\u55CE\uFF1F\u6211\u6703\u7D66\u4F60\u770B\u6211\u771F\u6B63\u7684\u6A23\u5B50\u5594\uFF01"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
+  - Line: "\u90A3\uFF5E\u5148\u5E6B\u6211\u627E\u627E XXX \uFF01\u6211\u7B49\u4F60\uFF5E
+      \uFF08\u6383\u63CF\u5730\u4E0A\u5716\u793A\uFF09\r\n"
+    WaitDurationAfterLine: 1
+    AnimationClipName: 
